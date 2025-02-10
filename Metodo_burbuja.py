@@ -1,5 +1,5 @@
 # Ejemplo sencillo de ordenamiento por el método burbuja (Bubble Sort)
-
+import time
 def bubble_sort(lista):
     """
     Función que implementa el método de ordenamiento burbuja.
@@ -14,6 +14,7 @@ def bubble_sort(lista):
             # Si el elemento actual es mayor que el siguiente, los intercambiamos
             if lista[j] > lista[j + 1]:
                 lista[j], lista[j + 1] = lista[j + 1], lista[j]
+                time.sleep(2)
     
     return lista
 
