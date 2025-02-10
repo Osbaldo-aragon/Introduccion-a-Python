@@ -1,5 +1,4 @@
 # Ejemplo sencillo de ordenamiento por el método burbuja (Bubble Sort)
-# Código en Python para usar en un cuaderno de Jupyter
 
 def bubble_sort(lista):
     """
