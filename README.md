@@ -3,7 +3,7 @@
 
 ## Método de Ordenamiento Burbuja
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://runestone.academy/ns/books/published/pythoned/_images/bubblepass.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://runestone.academy/ns/books/published/pythoned/_images/bubblepass.png">
-  <img alt="Ejemplo de Metodo Burbuja de Ordenamiento" src="https://runestone.academy/ns/books/published/pythoned/_images/bubblepass.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://codepumpkin.com/wp-content/uploads/2017/10/BubbleSort_Avg_case.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://codepumpkin.com/wp-content/uploads/2017/10/BubbleSort_Avg_case.gif">
+  <img alt="Ejemplo de Metodo Burbuja de Ordenamiento" src="https://codepumpkin.com/wp-content/uploads/2017/10/BubbleSort_Avg_case.gif">
 </picture>
